@@ -14,10 +14,10 @@
     "three": "^0.134.0"
   },
   "devDependencies": {
-    "@types/stats.js": "^0.17.0",
+    "@types/stats.js": "^0.17.4",
     "@types/three": "^0.136.1",
-    "typescript": "^5.2.2",
-    "vite": "^5.2.8",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21",
     "vite-plugin-checker": "^0.6.4"
   }
 }
