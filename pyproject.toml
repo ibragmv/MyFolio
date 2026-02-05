@@ -1,0 +1,9 @@
+[project]
+name = "myfolio"
+version = "1.0.0"
+description = "MyFolio project"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.uv]
+dev-dependencies = []
