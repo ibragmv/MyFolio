@@ -341,7 +341,6 @@ a:active {
   content: " ";
   box-shadow: 6px 6px 0px rgba(82, 82, 82, 0.25);
   background-color: #040d21;
-  background-image: url(img/bg.png);
   background-size: contain;
   filter: blur(30px);
   color: #f6d4b1;
