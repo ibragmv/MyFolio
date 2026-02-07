@@ -12,15 +12,15 @@ A high-performance personal portfolio website featuring interactive 3D graphics 
 - **Responsive Design:** Fully optimized for all screen sizes, from mobile to ultra-wide monitors.
 
 ## 🛠 Tech Stack
-- **Runtime:** [Bun](https://bun.sh/)
-- **Bundler:** [Vite](https://vitejs.dev/)
-- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Runtime:** [Bun](https://bun.sh)
+- **Bundler:** [Vite](https://vitejs.dev)
+- **Language:** [TypeScript](https://www.typescriptlang.org)
 - **Graphics:** GLSL / Three.js (WebGL)
-- **Deployment:** [Vercel](https://vercel.com/)
+- **Deployment:** [Vercel](https://vercel.com)
 
 ## 🚀 Getting Started
 
-Ensure you have [Bun](https://bun.sh/) installed on your machine.
+Ensure you have [Bun](https://bun.sh) installed on your machine.
 
 ### 1. Clone the repository
 ```bash
@@ -53,19 +53,3 @@ bun run build
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Developed with ❤️ by [ibragmv](https://github.com/ibragmv)
-```
-
----
-
-### Key changes made for the English version:
-1. **Terminology:** Used "High-performance" and "Immersive experience" to appeal to recruiters and collaborators.
-2. **Getting Started:** Used standard industry terms like "Clone", "Dependencies", and "Production build".
-3. **Structure:** Added a brief explanation of the directories.
-4. **Links:** Kept your GitHub links active so people can easily find your profile.
-
-**How to use:**
-1. Open your `README.md` file.
-2. Delete everything inside.
-3. Paste the code above.
-4. Save and commit.
