@@ -3,7 +3,7 @@
 
 
 ## *Glimmer*
-## 2025
+## 2026
 
 ### • TypeScript, Stripe
 ### • Next.js, E-commerce
