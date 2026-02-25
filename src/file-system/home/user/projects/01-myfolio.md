@@ -3,7 +3,7 @@
 
 
 ## *MyFolio (This Website)*
-## 2025
+## 2026
 
 ### • TypeScript, WebGL,
 ### • Shader Language, Web Dev
