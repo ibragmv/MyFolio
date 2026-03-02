@@ -2,7 +2,7 @@
 
 
 
-## *MyFolio (This Website)*
+## *Folio (This Website)*
 ## 2026
 
 ### • TypeScript, WebGL,

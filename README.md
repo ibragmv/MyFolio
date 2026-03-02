@@ -1,31 +1,32 @@
-# MyFolio 🚀
+# Folio: An Immersive Digital CV 🚀
 
-A high-performance personal portfolio website featuring interactive 3D graphics and modern web technologies.
+**Folio** is a high-performance, 3D-animated personal portfolio designed to redefine the traditional resume. Rather than a static document, it serves as an interactive experience that showcases technical expertise through bleeding-edge web technologies.
 
-🔗 **My Live Portfolio:** [ibragmv.vercel.app](https://ibragmv.vercel.app)
+🔗 **Live Experience:** [ibragmv.vercel.app](https://ibragmv.vercel.app)
 
-## ✨ Features
-- **3D Visuals:** Custom GLSL shaders and WebGL rendering for an immersive experience.
-- **Modern Ecosystem:** Powered by **Bun** for lightning-fast dependency management.
-- **Optimized Build:** Built with **Vite** to ensure minimal load times and instant HMR.
-- **Type-Safe:** Developed 100% in **TypeScript** for robust and maintainable code.
-- **Responsive Design:** Fully optimized for all screen sizes, from mobile to ultra-wide monitors.
+---
+
+## ✨ Concept & Vision
+Folio is built for developers who want their first impression to be as impactful as their code. It merges minimalistic aesthetics with complex technical implementation, focusing on:
+- **Cinematic Interactivity:** Using GLSL shaders to create a unique visual identity.
+- **Performance First:** Leveraging the speed of the Bun runtime and Vite's instant HMR.
+- **Professional Clarity:** A structured layout designed to function as a comprehensive digital CV.
 
 ## 🛠 Tech Stack
-- **Runtime:** [Bun](https://bun.sh)
+- **Runtime:** [Bun](https://bun.sh) (Ultra-fast JavaScript package manager & runner)
 - **Bundler:** [Vite](https://vitejs.dev)
-- **Language:** [TypeScript](https://www.typescriptlang.org)
-- **Graphics:** GLSL / Three.js (WebGL)
-- **Deployment:** [Vercel](https://vercel.com)
+- **Logic:** [TypeScript](https://www.typescriptlang.org) (100% type-safe)
+- **Graphics:** [Three.js](https://threejs.org) & Custom GLSL Shaders (WebGL)
+- **Hosting:** [Vercel](https://vercel.com)
 
 ## 🚀 Getting Started
 
-Ensure you have [Bun](https://bun.sh) installed on your machine.
+Ensure you have [Bun](https://bun.sh) installed.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ibragmv/MyFolio.git
-cd MyFolio
+git clone https://github.com/ibragmv/Folio.git
+cd Folio
 ```
 
 ### 2. Install dependencies
@@ -33,21 +34,26 @@ cd MyFolio
 bun install
 ```
 
-### 3. Start development server
+### 3. Launch Development Server
 ```bash
 bun run dev
 ```
 
-### 4. Build for production
+### 4. Production Build
 ```bash
 bun run build
 ```
 
 ## 📂 Project Structure
-- `src/` — Main application logic and components.
-- `public/` — Static assets (3D models, textures, icons).
-- `vite.config.ts` — Build and plugin configuration.
-- `bun.lock` — Dependency lockfile (text format).
+- `src/` — Core application logic, components, and shader files.
+- `public/` — Static assets including 3D models and textures.
+- `vite.config.ts` — Optimized build configurations.
+- `bun.lockb` — Dependency lockfile for consistent environments.
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is open-source and available under the [MIT License](LICENSE.md).
+
+---
+
+### Credits
+This project is a personalized evolution of the original Folio concept created by **Edward Hinrichsen** (2024). I have adapted and modified the architecture to better reflect my professional journey and technical preferences.

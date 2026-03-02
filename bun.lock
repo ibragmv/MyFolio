@@ -3,7 +3,7 @@
   "configVersion": 0,
   "workspaces": {
     "": {
-      "name": "MyFolio",
+      "name": "Folio",
       "dependencies": {
         "@vercel/analytics": "^1.6.1",
         "@vercel/speed-insights": "^1.3.1",
